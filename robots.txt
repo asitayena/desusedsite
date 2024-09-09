@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://desusedsite.netlify.app/sitemap.xml
